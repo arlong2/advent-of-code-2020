@@ -2,7 +2,7 @@
 
 > https://adventofcode.com/2020
 
-## 4/50 Stars
+## 6/50 Stars
 <img src="images/star.png" width="40"> <img src="images/star.png" width="40"> <img src="images/star.png" width="40"> <img src="images/star.png" width="40"> <img src="images/star.png" width="40"> <img src="images/star.png" width="40">
 
 ## Problems
